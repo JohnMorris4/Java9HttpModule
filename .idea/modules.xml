@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CourseAppModule.iml" filepath="$PROJECT_DIR$/CourseAppModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bawp.programming.courseapp/bawp.programming.courseapp.iml" filepath="$PROJECT_DIR$/bawp.programming.courseapp/bawp.programming.courseapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bawp.programming.coursedatabase/bawp.programming.coursedatabase.iml" filepath="$PROJECT_DIR$/bawp.programming.coursedatabase/bawp.programming.coursedatabase.iml" />
+    </modules>
+  </component>
+</project>
